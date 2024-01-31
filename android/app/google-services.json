@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411714309147",
+    "project_id": "instax-c1f92",
+    "storage_bucket": "instax-c1f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411714309147:android:df28c4120091e389c97cbe",
+        "android_client_info": {
+          "package_name": "com.example.instax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mZCcSgsX9SU96yvNk5uXW_CCoX5Sa3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
-name: instax
-description: "A new Flutter project."
+name: post_repository
+description: "Package that manages posts"
 publish_to: "none"
 version: 0.1.0
 
@@ -9,8 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  firebase_core: ^2.24.2
 
 dev_dependencies:
   flutter_test:
