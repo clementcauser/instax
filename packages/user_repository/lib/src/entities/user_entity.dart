@@ -16,7 +16,7 @@ class MyUserEntity extends Equatable {
     return {'id': id, 'email': email, 'name': name, 'picture': picture};
   }
 
-  MyUserEntity fromDocument(Map<String, dynamic> document) {
+  static MyUserEntity fromDocument(Map<String, dynamic> document) {
     return MyUserEntity(
         id: document['id'],
         email: document['email'],

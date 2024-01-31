@@ -31,7 +31,7 @@ class MyUser extends Equatable {
     return MyUserEntity(id: id, email: email, name: name, picture: picture);
   }
 
-  MyUser fromEntity(MyUserEntity entity) {
+  static MyUser fromEntity(MyUserEntity entity) {
     return MyUser(
         id: entity.id,
         email: entity.email,
